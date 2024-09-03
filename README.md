@@ -8,7 +8,7 @@ an image here
 
 
 ## Database Schema
-an image here
+![](images/database_schema.png)
 
 
 ## Technology stack
