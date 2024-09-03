@@ -3,6 +3,13 @@
 > others. With a robust system design and a reliable technology stack, Twitter provides a seamless and secure user
 > experience.
 
+## Architecture Diagram
+an image here
+
+
+## Database Schema
+an image here
+
 
 ## Technology stack
 - Python
