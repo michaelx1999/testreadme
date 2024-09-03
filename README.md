@@ -1,6 +1,6 @@
 # Twitter
 > This fully asynchronous Twitter backend project is a REST API that supports essential features like user 
-> management, tweeting, commenting, and following, built using FastAPI. It includes Redis for authentication
+> management, tweeting, commenting, reacting, messaging, and following. It uses Redis for user authentication
 > and PostgreSQL for data storage.
 
 ## Architecture Diagram
