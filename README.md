@@ -1,7 +1,7 @@
 # Twitter
-> Twitter is a social media application that allows users to connect and share their thoughts and experiences with
-> others. With a robust system design and a reliable technology stack, Twitter provides a seamless and secure user
-> experience.
+> This fully asynchronous Twitter backend project is a REST API that supports essential features like user 
+> management, tweeting, commenting, and following, built using FastAPI. It includes Redis for authentication
+> and PostgreSQL for data storage.
 
 ## Architecture Diagram
 an image here
