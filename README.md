@@ -1,6 +1,18 @@
+# Twitter
+> Twitter is a social media application that allows users to connect and share their thoughts and experiences with
+> others. With a robust system design and a reliable technology stack, Twitter provides a seamless and secure user
+> experience.
+
+
+## Technology stack
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
+
 
 ## Project Structure
-
 ```
 backend
 │   .gitignore
@@ -105,7 +117,6 @@ backend
 
 
 ## How to run application locally
-
 1. Install docker desktop
 2. Create a virtual environment ```python -m venv .venv```
 3. Enter virtual environment and install all dependencies ```pip install -r requirements.txt```
