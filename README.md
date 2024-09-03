@@ -4,7 +4,7 @@
 > and PostgreSQL for data storage.
 
 ## Architecture Diagram
-an image here
+![](images/architecture_diagram.png)
 
 
 ## Database Schema
